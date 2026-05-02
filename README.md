@@ -13,5 +13,7 @@
   - [Example Project](https://github.com/_______)
 
 <h2>  Connect with me</h2>
-  <li><a href="https://www.linkedin.com/in/andrew-nathe-7008b837b/"><b>LinkedIn</b></a></li>
-  <li><a href="https://www.instagram.com/_andrewnathe/"><b>Instagram</b></a></li>
+<p>
+  <a href="https://www.linkedin.com/in/andrew-nathe-7008b837b/"><b>LinkedIn</b></a> ||
+  <a href="https://www.instagram.com/_andrew_nathe/"><b>Instagram</b></a>
+</p>
