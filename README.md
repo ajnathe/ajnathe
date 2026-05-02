@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew Nathe <br/><a href="https://www.linkedin.com/in/andrew-nathe-7008b837b/">Electrical Engineering Student</a>, <a href="https://fairfieldstags.com/sports/mens-swimming-and-diving/roster/andrew-nathe/7682">Fairfield University D1 Athlete</a></h1>
+<h1>Hi, I'm Andrew Nathe! <br/><a href="https://www.linkedin.com/in/andrew-nathe-7008b837b/">Electrical Engineering Student</a>, <a href="https://fairfieldstags.com/sports/mens-swimming-and-diving/roster/andrew-nathe/7682">Fairfield University D1 Athlete</a></h1>
 
 <h2>⚙️⚡ Engineering Projects</h2>
 
