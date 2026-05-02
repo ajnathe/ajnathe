@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew Nathe <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/andrew-nathe-7008b837b">Electrical Engineering Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Andrew Nathe <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/andrew-nathe-7008b837b/">Electrical Engineering Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
