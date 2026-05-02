@@ -15,5 +15,5 @@
 <h2>  Connect with me</h2>
 <p>
   <a href="https://www.linkedin.com/in/andrew-nathe-7008b837b/"><b>LinkedIn</b></a> ||
-  <a href="https://www.instagram.com/_andrew_nathe/"><b>Instagram</b></a>
+  <a href="https://www.instagram.com/_andrewnathe/"><b>Instagram</b></a>
 </p>
